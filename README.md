@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a 15yo full stack developer and avid gamer!
 
+![](https://komarev.com/ghpvc/?username=faisalsayed10&color=red&style=flat-square&label=Profile+Views)
+
 ### Technologies I mostly work with:  
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
