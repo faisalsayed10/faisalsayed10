@@ -27,6 +27,7 @@ I'm a 15yo full stack developer and avid gamer!
 ![Auth0](https://img.shields.io/badge/-Auth0-000000?style=flat&logo=auth0&logoColor=339933)
 ![Passport](https://img.shields.io/badge/-Passport-000000?style=flat&logo=passport&logoColor=339933)
 ![SWR](https://img.shields.io/badge/-SWR-000000?style=flat&logo=swr&logoColor=339933)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=339933)
 
 [![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=faisalsayed10&count_private=true&show_icons=true&theme=tokyonight&line_height=33&hide_rank=false)](https://github.com/faisalsayed10?tab=repositories&q=&type=public&language=)
 [![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalsayed10&count_private=true&theme=onedark&line_height=30&hide=Java&layout=default)](https://github.com/faisalsayed10?tab=repositories&q=&type=source&language=)
