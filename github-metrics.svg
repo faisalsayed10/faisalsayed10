@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3601 Commits
+                            3602 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.01142138180396" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="241.01142138180396" y="0" width="104.99383123228769" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="346.00525261409166" y="0" width="30.053906479038407" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="376.05915909313006" y="0" width="29.956977425974788" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="406.0161365191048" y="0" width="25.408335776409654" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="431.4244722955145" y="0" width="11.550571679859278" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.9750439753738" y="0" width="10.377589660901007" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="453.35263363627485" y="0" width="6.647366363725203" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.0128934140368" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="241.0128934140368" y="0" width="104.99166295113207" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="346.00455636516887" y="0" width="30.05409004012777" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="376.05864640529666" y="0" width="29.957160395047854" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="406.0158068003445" y="0" width="25.408490963616263" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="431.42429776396074" y="0" width="11.550642227610597" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.9749399915714" y="0" width="10.377653044397077" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="453.3525930359684" y="0" width="6.647406964031589" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1391,10 +1391,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8 0,2.8 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8 1.7,3.8 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.6)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4 0,2.4 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4 1.7,3.4 z"/>
+                            <g transform="translate(-6.8, 8.4)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.6 0,2.6 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.6 1.7,3.6 z"/>
                             </g>
                         </g>
                     </g>
@@ -1578,7 +1578,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 312k out of 83m users</span>
+                                    <span class="gh">ranked 313k out of 83m users</span>
                                 </div>
                                 <div class="text">Published 60 public repositories</div>
                             </div>
@@ -1593,7 +1593,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.18333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="115.21666666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1615,7 +1615,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 421 times</div>
+                                <div class="text">Repositories have been deployed 423 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
