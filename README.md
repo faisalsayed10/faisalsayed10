@@ -9,4 +9,6 @@
 
 🕊 [faisal_sayed05](https://twitter.com/faisal_sayed05)
 
+👨‍💻 [Replit @ faisalsayed1](https://replit.com/@faisalsayed1)
+
 ![](https://komarev.com/ghpvc/?username=faisalsayed10&color=red&style=flat-square&label=Profile+Views)
