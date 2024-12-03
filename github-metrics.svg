@@ -236,7 +236,7 @@
                     <rect mask="url(#languages-bar)" x="190.123856186647" y="0" width="182.8610476481623" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="372.9849038348093" y="0" width="21.999865788472984" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="394.98476962328226" y="0" width="21.582029339692447" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="416.56679896297476" y="0" width="21.302597431647516" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="416.56679896297476" y="0" width="21.302597431647516" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="437.8693963946223" y="0" width="8.3157725298829" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="446.1851689245052" y="0" width="7.452257319462469" height="8" fill="#00B4AB"/>
                     <rect mask="url(#languages-bar)" x="453.63742624396764" y="0" width="6.362573756032392" height="8" fill="#F05138"/>
@@ -268,7 +268,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1579,7 +1579,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.3k out of 176m repositories</span>
+                                    <span class="gh">ranked 21.3k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2399 stars</div>
                             </div>
