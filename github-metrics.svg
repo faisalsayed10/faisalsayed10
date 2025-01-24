@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4481 Commits
+                            4483 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.27278641711442" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="189.27278641711442" y="0" width="182.0424890895476" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="371.315275506662" y="0" width="21.90138566566313" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="393.2166611723251" y="0" width="21.485419618510765" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="414.70208079083585" y="0" width="21.207238558488537" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="435.9093193493244" y="0" width="8.393234755385365" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="444.3025541047097" y="0" width="8.278547834610858" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.5811019393206" y="0" width="7.418898060679362" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.2434525602574" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="189.2434525602574" y="0" width="182.0855674738823" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="371.3290200341397" y="0" width="21.897991347207487" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="393.2270113813472" y="0" width="21.482089767265204" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="414.7091011486124" y="0" width="21.203951820273378" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="435.9130529688858" y="0" width="8.391933955880361" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="444.3049869247661" y="0" width="8.277264809503228" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.5822517342694" y="0" width="7.417748265730664" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1557,7 +1557,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 21.6k out of 218m repositories</span>
+                                    <span class="gh">ranked 21.6k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2404 stars</div>
                             </div>
