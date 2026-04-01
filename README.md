@@ -3,8 +3,6 @@
 ### 👉 Find me on the web
 🌎 https://fayd.me
 
-📨 [faisal.sayed502@gmail.com](mailto:faisal.sayed502@gmail.com)
-
 💼 [https://www.linkedin.com](https://www.linkedin.com/in/faisalsayed10/)
 
 🕊 [faisal_sayed05](https://twitter.com/faisal_sayed05)
